@@ -1,6 +1,6 @@
 # Automation-with-Python
 
-This project contains my personal take and some solutions i found online and put together for various Automation Tasks using Python.
+This project contains my personal take and some solutions i found around and put together for various Automation Tasks using Python.
 
 ### Introduction:
 
