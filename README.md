@@ -50,10 +50,10 @@ Feel free to modify and adapt the files based on your specific requirements.
 
 ### Change Log:
 
-**TBD**  - Soon.
-- Incoming 1.
-- Incoming 2.
-- Incoming 3.
+**12.09.2024 - 01_parse_data**  - Data parsing with python for various files
+- Examples of scripts to parse data to .csv, .txt, .xml, .JSON.
+- Can be used to scale up the usage for large files and manipulate data as desired.
+  
   
 ### Contributing:
 
