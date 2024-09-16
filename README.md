@@ -53,6 +53,11 @@ Feel free to modify and adapt the files based on your specific requirements.
 **12.09.2024 - 01_parse_data**  - Data parsing with python for various files
 - Examples of scripts to parse data to .csv, .txt, .xml, .JSON.
 - Can be used to scale up the usage for large files and manipulate data as desired.
+
+**16.09.2024 - 00_file_manipulation.py**  - File manipulation using Python
+- Contains several examples of file manipulation using Python.
+- Can be extended to folders not only files.
+
   
   
 ### Contributing:
