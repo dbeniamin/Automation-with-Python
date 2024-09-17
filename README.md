@@ -58,6 +58,9 @@ Feel free to modify and adapt the files based on your specific requirements.
 - Contains several examples of file manipulation using Python.
 - Can be extended to folders not only files.
 
+**17.09.2024 - 02_extract_data_regex.py**  - Search, find and extract data using regex
+- Using re library search, find and extract data from a data set using regex expression.
+
   
   
 ### Contributing:
