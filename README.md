@@ -70,3 +70,7 @@ Contributions are welcome! Feel free to contribute to the 100 Days of Code Chall
 If you have suggestions, ideas, or improvements, please don't hesitate.
 
 Thank you for considering contributing!
+
+### License ###
+
+MIT License
