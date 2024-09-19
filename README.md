@@ -60,8 +60,11 @@ Feel free to modify and adapt the files based on your specific requirements.
 
 **17.09.2024 - 02_extract_data_regex.py**  - Search, find and extract data using regex
 - Using re library search, find and extract data from a data set using regex expression.
-
   
+**19.09.2024 - 03_input_validation.py**  - Input validation script
+- Validate what type of data input is allowed from the user to avoid various input generated errors.
+
+
   
 ### Contributing:
 
