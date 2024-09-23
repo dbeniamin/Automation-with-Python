@@ -64,6 +64,9 @@ Feel free to modify and adapt the files based on your specific requirements.
 **19.09.2024 - 03_input_validation.py**  - Input validation script
 - Validate what type of data input is allowed from the user to avoid various input generated errors.
 
+**23.09.2024 - 04_error_handling.py**  - Error handling script example.
+- How to handle several errors that might be introduced in the code in order to pass and report them without stopping the script from running.
+
 
   
 ### Contributing:
