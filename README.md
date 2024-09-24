@@ -67,6 +67,9 @@ Feel free to modify and adapt the files based on your specific requirements.
 **23.09.2024 - 04_error_handling.py**  - Error handling script example.
 - How to handle several errors that might be introduced in the code in order to pass and report them without stopping the script from running.
 
+**24.09.2024 - 05_web_scraping.py**  - Web Scraping for data with python.
+- Base demonstration of Web Scraping using requests and BeautifulSoup.
+- Provides a base example on how to scrape several pages at once.
 
   
 ### Contributing:
