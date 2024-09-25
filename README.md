@@ -71,6 +71,10 @@ Feel free to modify and adapt the files based on your specific requirements.
 - Base demonstration of Web Scraping using requests and BeautifulSoup.
 - Provides a base example on how to scrape several pages at once.
 
+**24.09.2024 - 06_web_automation_selenium.py**  - Automated testing for a Web Page using Selenium and Python.
+- Base demonstration of Web page Automation testing using Selenium.
+- Provides a few interaction examples for web automation.
+
   
 ### Contributing:
 
