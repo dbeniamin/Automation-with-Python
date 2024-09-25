@@ -75,7 +75,10 @@ Feel free to modify and adapt the files based on your specific requirements.
 - Base demonstration of Web page Automation testing using Selenium.
 - Provides a few interaction examples for web automation.
 
-  
+**24.09.2024 - 07_selenium_drag&drop.py**  - Automated testing for draggable elements using Selenium and Python.
+- Base demonstration of Web page Automation testing using Selenium for draggable items.
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
