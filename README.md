@@ -71,12 +71,18 @@ Feel free to modify and adapt the files based on your specific requirements.
 - Base demonstration of Web Scraping using requests and BeautifulSoup.
 - Provides a base example on how to scrape several pages at once.
 
-**24.09.2024 - 06_web_automation_selenium.py**  - Automated testing for a Web Page using Selenium and Python.
+**25.09.2024 - 06_web_automation_selenium.py**  - Automated testing for a Web Page using Selenium and Python.
 - Base demonstration of Web page Automation testing using Selenium.
 - Provides a few interaction examples for web automation.
 
-**24.09.2024 - 07_selenium_drag&drop.py**  - Automated testing for draggable elements using Selenium and Python.
+**26.09.2024 - 07_selenium_drag&drop.py**  - Automated testing for draggable elements using Selenium and Python.
 - Base demonstration of Web page Automation testing using Selenium for draggable items.
+
+**30.09.2024 - 08_selenium_wait.py**  - Introduction of wait times in to python scripts.
+- Introduction of wait methods in python scripts using time module.
+- Main reason is to simulate real life interactions that do not occur right after each other in a few split seconds.
+
+
 
 
 ### Contributing:
