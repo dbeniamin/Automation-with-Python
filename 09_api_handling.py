@@ -20,7 +20,8 @@ print(f"title: {title}\nbrand: {brand}")
 
 
 # -------> api keys <-------
-
+# use your own api key
+# added api key to environment for security reasons
 api_key = os.getenv("api_key")
 
 weather_url = "https://api.openweathermap.org/data/2.5/forecast"
