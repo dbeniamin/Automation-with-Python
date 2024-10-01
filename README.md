@@ -82,7 +82,9 @@ Feel free to modify and adapt the files based on your specific requirements.
 - Introduction of wait methods in python scripts using time module.
 - Main reason is to simulate real life interactions that do not occur right after each other in a few split seconds.
 
-
+**01.10.2024 - 09_api_handling.py**  - Introduction of API handling.
+- Uses requests module to call an API.
+- Extract and arrange data returned by the API.
 
 
 ### Contributing:
