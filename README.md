@@ -35,17 +35,17 @@ Please make sure that the required libraries, frameworks and sometimes the examp
 
 ### Task specific folders and task_specific.py files.
 
-To use the files you are intrested in:
+To use the files you are interested in:
 
 1. Copy the content of "Task specific folder".
-2. Paste the content into a new Python file (e.g., `your_file.py`) in case the flow does not require any prequisite files.
+2. Paste the content into a new Python file (e.g., `your_file.py`) in case the flow does not require any perquisite files.
 3. Save the file look over, read the comments, modify, adapt and run it.
 
 Feel free to modify and adapt the files based on your specific requirements.
 
 
 ### Description:
-**Task specific folder** : contains all the files required to achieve the automation process refered in the name of the folder.
+**Task specific folder** : contains all the files required to achieve the automation process referred in the name of the folder.
 **task_specific.py** : contains comments and sometimes multiple solutions to the specific task.
 
 ### Change Log:
